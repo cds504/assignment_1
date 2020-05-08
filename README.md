@@ -1,7 +1,7 @@
 # CDS504 Assignment 1
 This is the group assignemt for CDS504. We've implemented five MapReduce programs in this assignment. These implemented programs can be executed in local system or Hadoop MapReduce system.
 
-## Required libray for running MapReduce in local system or Hadoop environment
+## Required library for running MapReduce in local system or Hadoop environment
 To run in local system or Hadoop, we need to install two libraries. Here is the command to install the required libraries. First library is for MapReduce framework to run Hadoop Streaming jobs and the second library is for converting our date to day such as 2020/05/07 to Thursday.
 
 1. `pip install mrjob`
